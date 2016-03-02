@@ -3,7 +3,7 @@
 	"contentVersion": "1.0.0.0",
   "parameters": {
     "appSvcPlanName": {
-      "value": "GEN-UNIQUE-5"
+      "value": "GEN-UNIQUE-6"
     },
     "svcPlanSize": {
       "value": "F1"
