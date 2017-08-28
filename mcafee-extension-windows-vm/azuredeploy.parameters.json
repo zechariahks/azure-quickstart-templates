@@ -5,9 +5,6 @@
     "newStorageAccountName": {
       "value": "GEN-UNIQUE"
     },
-    "location": {
-      "value": "West US"
-    },
     "publicIPAddressName": {
       "value": "mcafeepip"
     },
@@ -20,7 +17,7 @@
     "vmSize": {
       "value": "Standard_D3"
     },
-    "adminUserName": {
+    "adminUsername": {
       "value": "azureuser"
     },
     "adminPassword": {

@@ -8,10 +8,7 @@
     "virtualNetworkName": {
       "value": "testVnet"
     },
-    "location": {
-      "value": "West Europe"
-    },
-    "adminUserName": {
+    "adminUsername": {
       "value": "username"
     },
     "adminPassword": {

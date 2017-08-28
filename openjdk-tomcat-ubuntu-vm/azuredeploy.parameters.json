@@ -8,16 +8,13 @@
     "tomcatPackageName": {
       "value": "tomcat7"
     },
-    "location": {
-      "value": "West US"
-    },
     "newStorageAccountName": {
       "value": ""
     },
     "vmDnsName": {
       "value": "javasample1dns"
     },
-    "adminUserName": {
+    "adminUsername": {
       "value": "javasample1"
     },
     "adminPassword": {

@@ -8,7 +8,7 @@
     "newStorageAccountName": {
       "value": "GEN-UNIQUE-8"
     },
-    "adminUserName": {
+    "adminUsername": {
       "value": "azureuser"
     },
     "adminPassword": {
@@ -19,9 +19,6 @@
     },
     "scaleNumber": {
       "value": 2
-    },
-    "location": {
-      "value": "West US"
     }
   }
 }

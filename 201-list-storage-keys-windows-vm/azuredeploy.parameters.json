@@ -5,16 +5,13 @@
     "newStorageAccountName": {
       "value": "changeme"
     },
-    "location": {
-      "value": "West US"
-    },
     "vmName": {
       "value": "changeme"
     },
     "vmSize": {
       "value": "Standard_A2"
     },
-    "adminUserName": {
+    "adminUsername": {
       "value": "changeme"
     },
     "adminPassword": {

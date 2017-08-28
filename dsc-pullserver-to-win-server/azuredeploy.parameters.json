@@ -8,10 +8,7 @@
     "storageType": {
       "value": "Standard_LRS"
     },
-    "location": {
-      "value": "West Europe"
-    },
-    "adminUserName": {
+    "adminUsername": {
       "value": "ChangeAdminName"
     },
     "adminPassword": {
